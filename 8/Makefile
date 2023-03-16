@@ -3,7 +3,7 @@
 PHP_VER ?= 8.2.3
 PHP_VER_MINOR ?= $(shell echo "${PHP_VER}" | grep -oE '^[0-9]+\.[0-9]+')
 
-REPO = wodby/php
+REPO = wawo/php
 NAME = php-$(PHP_VER_MINOR)
 
 PECL_HTTP_PROXY ?= ""
