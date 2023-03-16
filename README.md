@@ -1,4 +1,4 @@
-# PHP Docker Container Images.
+# PHP Docker Container Images
 
 [![Build Status](https://github.com/wodby/php/workflows/Build%20docker%20image/badge.svg)](https://github.com/wodby/php/actions)
 [![Docker Pulls](https://img.shields.io/docker/pulls/wodby/php.svg)](https://hub.docker.com/r/wodby/php)
